@@ -1,8 +1,3 @@
-
-Bhavani . <bhavani.cs24@bmsce.ac.in>
-Tue, Dec 23, 12:01 PM (1 day ago)
-to Bhavana
-
 #include <stdio.h>
 
 #define MAX 5 // Maximum size of stack
@@ -79,4 +74,5 @@ int main() {
     } while (choice != 4);
 
     return 0;
+
 }
